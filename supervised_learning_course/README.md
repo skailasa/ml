@@ -2,7 +2,9 @@
  COMP0078 Supervised Learning
 </h1>
 
-## Coursework 1 - Linear Regression
+<h2>
+Coursework 1 - Linear Regression
+</h2>
 
 - Implementing linear regression
 - Implementing kernlised ridge regression
